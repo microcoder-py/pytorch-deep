@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6ba33ade-f708-43ea-88c5-ea0725b85666
+  title: PyTorch - A deeper dive
+  description: Deeper dive into PyTorch
+  keywords: []
+  authors: [microcoder-py]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+
+jupyter:
+  execute: false
