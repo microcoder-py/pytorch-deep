@@ -12,6 +12,7 @@ This repository collects and organizes the best existing resources for learning 
 ## Contents
 
 - [Chapter 1: Fundamentals](notebooks/fundamentals.md)
+- [Chapter 2: Custom Autograd Functions](notebooks/custom_autograd_functions.md)
 
 ## Disclaimer
 
