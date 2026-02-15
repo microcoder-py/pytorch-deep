@@ -14,3 +14,4 @@ project:
 site:
   template: book-theme
   nav: []
+  url: https://microcoder-py.github.io/pytorch-deep
