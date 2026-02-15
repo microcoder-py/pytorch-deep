@@ -11,7 +11,7 @@ This repository collects and organizes the best existing resources for learning 
 
 ## Contents
 
-- [Chapter 1: Fundamentals](notebooks/01_fundamentals.ipynb)
+- [Chapter 1: Fundamentals](notebooks/fundamentals.md)
 
 ## Disclaimer
 
